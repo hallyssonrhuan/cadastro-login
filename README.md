@@ -3,6 +3,9 @@ Este projeto é um sistema simples de cadastro e login desenvolvido em PHP, onde
 
 # Funcionalidades
 Cadastro de usuário: O usuário pode se cadastrar com nome, e-mail e senha.
+
 Login: O usuário pode fazer login fornecendo e-mail e senha.
+
 Página de usuário logado: Após o login, o usuário será redirecionado para uma página com as informações de sua conta.
+
 Armazenamento de dados: Os dados dos usuários são armazenados no arquivo de texto usuarios.txt, onde cada linha contém o nome, e-mail e a senha criptografada.
